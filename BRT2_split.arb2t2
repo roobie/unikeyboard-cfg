@@ -1603,9 +1603,9 @@
       <Z>1</Z>
       <Command>1</Command>
       <Key>
-        <DisplayID>67</DisplayID>
-        <ValASCII>203</ValASCII>
-        <ValScan>67</ValScan>
+        <DisplayID>66</DisplayID>
+        <ValASCII>202</ValASCII>
+        <ValScan>66</ValScan>
         <KeyType>0</KeyType>
         <AllLayers>false</AllLayers>
         <HasASCII>true</HasASCII>
